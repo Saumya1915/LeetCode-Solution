@@ -28,6 +28,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0921-spiral-matrix-iii) |
 ## Matrix
@@ -68,4 +69,5 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
