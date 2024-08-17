@@ -43,9 +43,9 @@ class Solution {
 
             for(Pair it:graph.get(p.v)){
 
-                if(p.dist+1<=k && stop[it.v]> p.dist){
+                if(p.dist+1<=k && stop[it.v]> p.dist+1){
                     pq.add(new Pair(it.v,p.wt+it.wt,p.dist+1));
-                    stop[p.v] = p.dist;
+                    stop[p.v] = p.dist+1;
                 }
             }
         }
