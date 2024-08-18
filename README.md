@@ -7,6 +7,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -60,6 +61,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Binary Tree
@@ -78,6 +80,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Depth-First Search
 |  |
@@ -95,4 +98,8 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
+## Math
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
