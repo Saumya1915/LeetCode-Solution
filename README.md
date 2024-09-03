@@ -12,6 +12,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## String
 |  |
 | ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -48,6 +49,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | ------- |
 | [0054-spiral-matrix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0921-spiral-matrix-iii) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Tree
 |  |
