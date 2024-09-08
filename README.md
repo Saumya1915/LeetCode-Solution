@@ -39,6 +39,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0624-maximum-distance-in-arrays](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0921-spiral-matrix-iii) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1706-min-cost-to-connect-all-points) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Matrix
 |  |
@@ -105,6 +106,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1706-min-cost-to-connect-all-points) |
 | [1738-maximal-network-rank](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1738-maximal-network-rank) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2379-maximum-total-importance-of-roads) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
@@ -116,4 +118,12 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
+## Union Find
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1706-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
