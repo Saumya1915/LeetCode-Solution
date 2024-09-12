@@ -1,101 +1,119 @@
 class Solution {
     public int[] sortItems(int n, int m, int[] group, List<List<Integer>> beforeItems) {
 
-        // Map to handle individual items with no group (-1 case)
-        HashMap<Integer, Integer> map = new HashMap<>();
-        for (int i = 0; i < group.length; i++) {
-            if (group[i] == -1) {
-                map.put(i, m++); // Assign new group to items with no group
-            } else {
-                map.put(i, group[i]);
+        HashMap<Integer,Integer> map=new HashMap<>();
+        for(int i=0;i<group.length;i++){
+            if(group[i]==-1){
+                map.put(i,m++);
+            }
+            else{
+                map.put(i,group[i]);
+            }
+        }
+       List<List<Integer>> list3=new ArrayList<>();
+       for(int i=0;i<n;i++){
+        list3.add(new ArrayList<>());
+       }
+        int indegree[]=new int[n];
+        for(int i=0;i<beforeItems.size();i++){
+            int size=beforeItems.get(i).size();
+
+            indegree[i]=size;
+            for(int j=0;j<beforeItems.get(i).size();j++){
+                 list3.get(beforeItems.get(i).get(j)).add(i);
             }
         }
 
-        // Adjacency list for individual items and their indegrees
-        List<List<Integer>> itemGraph = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            itemGraph.add(new ArrayList<>());
-        }
-        int[] itemIndegree = new int[n];
-        for (int i = 0; i < beforeItems.size(); i++) {
-            for (int beforeItem : beforeItems.get(i)) {
-                itemGraph.get(beforeItem).add(i);
-                itemIndegree[i]++;
+        Queue<Integer>q=new LinkedList<>();
+        List<Integer> list=new ArrayList<>();
+        for(int i=0;i<indegree.length;i++){
+            if(indegree[i]==0){
+                q.add(i);
             }
         }
 
-        // Topological sorting for individual items
-        List<Integer> sortedItems = topologicalSort(itemGraph, itemIndegree, n);
-        if (sortedItems.size() < n) {
-            return new int[0]; // Cycle detected or not all nodes sorted
+        while(!q.isEmpty()){
+
+            int value=q.remove();
+            list.add(value);
+            for(Integer it:list3.get(value)){
+                indegree[it]--;
+                if(indegree[it]==0){
+                    q.add(it);
+                }
+            }
+
         }
 
-        // Adjacency list for groups and their indegrees
-        List<List<Integer>> groupGraph = new ArrayList<>();
-        for (int i = 0; i < m; i++) {
-            groupGraph.add(new ArrayList<>());
+        System.out.println(list);
+        if(list.size()<n){
+            return new int[0];
         }
-        int[] groupIndegree = new int[m];
-        for (int i = 0; i < beforeItems.size(); i++) {
-            int currentGroup = map.get(i);
-            for (int beforeItem : beforeItems.get(i)) {
-                int beforeGroup = map.get(beforeItem);
-                if (currentGroup != beforeGroup) {
-                    groupGraph.get(beforeGroup).add(currentGroup);
-                    groupIndegree[currentGroup]++;
+
+        List<List<Integer>>groups=new ArrayList<>();
+        for(int i=0;i<m;i++){
+            groups.add(new ArrayList<>());
+        }
+        int indeg[]=new int[m];
+        for(int i=0;i<beforeItems.size();i++){
+            int x=map.get(i);
+            for(int j=0;j<beforeItems.get(i).size();j++){
+                int y=map.get(beforeItems.get(i).get(j));
+                if(x!=y){
+                    groups.get(y).add(x);
+                    indeg[x]++;
                 }
             }
         }
+        // for(int i=0;i<m;i++){
+        // System.out.print(indeg[i]+"  ");}
 
-        // Topological sorting for groups
-        List<Integer> sortedGroups = topologicalSort(groupGraph, groupIndegree, m);
-        if (sortedGroups.size() < m) {
+        q=new LinkedList<>();
+        for(int i=0;i<indeg.length;i++){
+            if(indeg[i]==0){
+                q.add(i);
+            }
+        }
+         List<Integer> list2=new ArrayList<>();
+         while(!q.isEmpty()){
+
+            int value=q.remove();
+            list2.add(value);
+            for(Integer it:groups.get(value)){
+                indeg[it]--;
+                if(indeg[it]==0){
+                    q.add(it);
+                }
+            }
+
+        }
+        if (list2.size() < m) {
             return new int[0]; // Cycle detected in groups or not all sorted
         }
+        System.out.println(list2);
 
-        // Map groups to the items within them
-        HashMap<Integer, List<Integer>> groupToItems = new HashMap<>();
-        for (int i = 0; i < m; i++) {
-            groupToItems.put(i, new ArrayList<>());
-        }
-        for (int item : sortedItems) {
-            groupToItems.get(map.get(item)).add(item);
+        HashMap<Integer,ArrayList<Integer>>map2=new HashMap<>();
+
+        for(int i=0;i<m;i++){
+            map2.put(i,new ArrayList<>());
         }
 
-        // Generate the final sorted list based on sorted groups and items
-        int[] result = new int[n];
-        int index = 0;
-        for (int groupId : sortedGroups) {
-            for (int item : groupToItems.get(groupId)) {
-                result[index++] = item;
+        for(int i=0;i<list.size();i++){
+            int x=list.get(i);
+            map2.get(map.get(x)).add(x);
+        }
+         int index=0;
+        int ans[]=new int[n];
+        for(int i=0;i<list2.size();i++){
+            int x=list2.get(i);
+            for(Integer it:map2.get(x)){
+                ans[index++]=it;
             }
         }
 
-        return result;
-    }
+        return ans;
 
-    // Helper method for topological sorting
-    private List<Integer> topologicalSort(List<List<Integer>> graph, int[] indegree, int totalNodes) {
-        Queue<Integer> queue = new LinkedList<>();
-        List<Integer> sortedList = new ArrayList<>();
+
         
-        for (int i = 0; i < totalNodes; i++) {
-            if (indegree[i] == 0) {
-                queue.add(i);
-            }
-        }
-
-        while (!queue.isEmpty()) {
-            int node = queue.remove();
-            sortedList.add(node);
-            for (int neighbor : graph.get(node)) {
-                indegree[neighbor]--;
-                if (indegree[neighbor] == 0) {
-                    queue.add(neighbor);
-                }
-            }
-        }
-
-        return sortedList;
     }
 }
