@@ -84,6 +84,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
+| [0744-network-delay-time](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2379-maximum-total-importance-of-roads) |
@@ -108,6 +109,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Depth-First Search
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -118,6 +120,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Breadth-First Search
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0922-possible-bipartition) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
@@ -127,6 +130,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -140,6 +144,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Math
 |  |
