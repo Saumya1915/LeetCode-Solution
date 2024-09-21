@@ -8,6 +8,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
+| [0721-accounts-merge](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -15,6 +16,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0179-largest-number) |
+| [0721-accounts-merge](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -30,6 +32,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0179-largest-number) |
+| [0721-accounts-merge](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2379-maximum-total-importance-of-roads) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -45,6 +48,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0054-spiral-matrix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0179-largest-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0624-maximum-distance-in-arrays) |
+| [0721-accounts-merge](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0890-lemonade-change](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0921-spiral-matrix-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -116,6 +120,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Depth-First Search
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0922-possible-bipartition) |
@@ -129,6 +134,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Breadth-First Search
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0922-possible-bipartition) |
@@ -169,6 +175,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Union Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0922-possible-bipartition](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
