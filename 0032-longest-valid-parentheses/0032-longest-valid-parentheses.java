@@ -11,15 +11,18 @@ class Solution {
         }
         int max=0;
         int count=s.length();
-       
+        
         while(!stack.isEmpty()){
             int a=stack.pop();
           max=Math.max(max,count-a-1);
           count=a;
         }
+
         if(stack.isEmpty()){
-            max=Math.max(max,count);
+            return Math.max(max,count);
         }
+    
+        
        
 
         return max;
