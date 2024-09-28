@@ -1,17 +1,19 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        HashMap<Integer,Integer>map=new HashMap<>();
-        for(int i=0;i<nums.length;i++){
-            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
-        }
-
-        for(Integer it:map.keySet()){
-            int num=map.get(it);
-            if(num==1){
-                return it;
+        int ans=0;
+        for(int i=0;i<32;i++){
+            int setBits=0;
+            for(int j=0;j<nums.length;j++){
+                int value=nums[j];
+                if(((value>>i)&1)==1){
+                    setBits++;
+                }
+            }
+            if(setBits%3!=0){
+                int sum=setBits%3;
+               ans|=sum<<i;
             }
         }
-        return 0;
-
+        return ans;
     }
 }
