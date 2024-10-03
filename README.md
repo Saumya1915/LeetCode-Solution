@@ -18,6 +18,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0179-largest-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0179-largest-number) |
+| [0606-construct-string-from-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0606-construct-string-from-binary-tree) |
 | [0721-accounts-merge](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -86,6 +87,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0513-find-bottom-left-tree-value) |
+| [0606-construct-string-from-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0606-construct-string-from-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
@@ -111,6 +113,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0513-find-bottom-left-tree-value) |
+| [0606-construct-string-from-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0606-construct-string-from-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 ## Data Stream
@@ -133,6 +136,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0513-find-bottom-left-tree-value) |
+| [0606-construct-string-from-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0606-construct-string-from-binary-tree) |
 | [0721-accounts-merge](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
