@@ -11,6 +11,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0721-accounts-merge](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -92,6 +93,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0789-kth-largest-element-in-a-stream](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Design
 |  |
@@ -119,6 +121,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0789-kth-largest-element-in-a-stream](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Data Stream
 |  |
 | ------- |
@@ -147,6 +150,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0922-possible-bipartition](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -164,6 +168,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0922-possible-bipartition](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0922-possible-bipartition) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
