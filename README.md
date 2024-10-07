@@ -100,6 +100,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1731-even-odd-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1731-even-odd-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Design
 |  |
@@ -131,6 +132,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1731-even-odd-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1731-even-odd-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -187,6 +189,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1558-course-schedule-iv) |
+| [1731-even-odd-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1731-even-odd-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Graph
