@@ -3,17 +3,8 @@ class Solution {
          StringBuilder str=new StringBuilder();
          for(int i=0;i<array.length;i++){
 
-            String str1=Integer.toBinaryString(array[i]);
-            for(int j=0;j<str1.length();j++){
-              char value=str1.charAt(j);
-              if(value=='1'){
-                str.append("1");
-              }  
-              else{
-                str.append("0");
-              }
-                
-            }
+            str.append(Integer.toBinaryString(array[i]));
+            
          }
          return Integer.parseInt(str.toString(),2);
     }
