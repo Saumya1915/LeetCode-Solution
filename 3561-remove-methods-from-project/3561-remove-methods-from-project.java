@@ -1,6 +1,8 @@
 class Solution {
+    int count=0;
     public void dfs(int k,int visited[],ArrayList<ArrayList<Integer>>adj){
         visited[k]=1;
+        count++;
 
         for(Integer it:adj.get(k)){
             if(visited[it]==0){
@@ -25,16 +27,6 @@ class Solution {
         int visited[]=new int[n];
         dfs(k,visited,adj);
 
-    for(int i=0;i<n;i++){
-        System.out.print(visited[i]+" ");
-    }
-        int count=0;
-        
-        for(int i=0;i<n;i++){
-            if(visited[i]==1){
-                count++;
-            }
-        }
         if(count==n){
             return new ArrayList<>();
         }
