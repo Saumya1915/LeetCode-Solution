@@ -176,6 +176,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1558-course-schedule-iv](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [3561-remove-methods-from-project](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3561-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -197,6 +198,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1731-even-odd-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1731-even-odd-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [3561-remove-methods-from-project](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3561-remove-methods-from-project) |
 ## Graph
 |  |
 | ------- |
@@ -213,6 +215,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2379-maximum-total-importance-of-roads) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [3561-remove-methods-from-project](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3561-remove-methods-from-project) |
 ## Shortest Path
 |  |
 | ------- |
