@@ -37,6 +37,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0624-maximum-distance-in-arrays](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1961-maximum-ice-cream-bars](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1961-maximum-ice-cream-bars) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2379-maximum-total-importance-of-roads) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -45,6 +46,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | ------- |
 | [0179-largest-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0721-accounts-merge](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0721-accounts-merge) |
+| [1961-maximum-ice-cream-bars](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1961-maximum-ice-cream-bars) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2379-maximum-total-importance-of-roads) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -71,6 +73,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1706-min-cost-to-connect-all-points](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1961-maximum-ice-cream-bars](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1961-maximum-ice-cream-bars) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2411-spiral-matrix-iv) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -297,4 +300,8 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+## Counting Sort
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1961-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
