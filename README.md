@@ -68,6 +68,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0054-spiral-matrix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0137-single-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0179-largest-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0475-heaters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0475-heaters) |
 | [0624-maximum-distance-in-arrays](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0721-accounts-merge](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0721-accounts-merge) |
@@ -127,6 +128,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Binary Search Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0475-heaters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0475-heaters) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0853-most-profit-assigning-work](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0853-most-profit-assigning-work) |
@@ -306,6 +308,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Divide and Conquer
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Two Pointers
 |  |
@@ -330,4 +333,20 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
