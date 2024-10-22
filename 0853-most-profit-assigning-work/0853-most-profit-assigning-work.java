@@ -1,62 +1,59 @@
 class Solution {
-    public int binarySearch(int array[], int num){
+    public int binarySearch(int target,int array[]){
+
         int start=0;
         int end=array.length-1;
-        int mid=start+(end-start)/2;
-        if(num<array[0]){
+        if(array[0]>target){
             return -1;
         }
         int ans=-1;
-        while(start<=end){
-            if(array[mid]<=num){
-                ans=array[mid];
-                start=mid+1;
-            }
-            else{
+        while(start<=end)
+        {
+             
+             int mid=start+(end-start)/2;
+
+             if(array[mid]<=target){
+                 ans=mid;
+                 start=mid+1;
+
+             }
+             else{
                 end=mid-1;
-            }
-            mid=start+(end-start)/2;
+             }
+
+             
         }
         return ans;
     }
     public int maxProfitAssignment(int[] difficulty, int[] profit, int[] worker) {
-        HashMap<Integer, Integer> map=new HashMap<>();
+        HashMap<Integer,Integer>map=new HashMap<>();
         for(int i=0;i<difficulty.length;i++){
             if(!map.containsKey(difficulty[i])){
                 map.put(difficulty[i],profit[i]);
             }
             else{
                 int count=map.get(difficulty[i]);
-                if(count<profit[i]){
+                if(profit[i]>count){
                     map.put(difficulty[i],profit[i]);
                 }
             }
         }
-        
         Arrays.sort(difficulty);
-        int max=0;
-        for(int i=0;i<profit.length;i++){
-            int n=difficulty[i];
-            max=Math.max(max,map.get(n));
-            map.put(n,max);
+        int maxi=Integer.MIN_VALUE;
+        for(int i=0;i<difficulty.length;i++){
+
+            maxi=Math.max(maxi,map.get(difficulty[i]));
+            profit[i]=maxi;
         }
-       
         int sum=0;
+
         for(int i=0;i<worker.length;i++){
-            int num=worker[i];
 
-            int num2=binarySearch(difficulty,num);
-           
-            if(num2!=-1){
-                sum+=map.get(num2);
+            int num=binarySearch(worker[i],difficulty);
+            if(num!=-1){
+                sum+=profit[num];
             }
-           
-
         }
         return sum;
-
-        
-
-
     }
 }
