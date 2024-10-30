@@ -86,6 +86,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2132-convert-1d-array-into-2d-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2411-spiral-matrix-iv](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2411-spiral-matrix-iv) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Matrix
@@ -98,6 +99,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1753-path-with-minimum-effort](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2411-spiral-matrix-iv) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -173,6 +175,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0264-ugly-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
