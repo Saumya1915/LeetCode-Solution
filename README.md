@@ -52,6 +52,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0475-heaters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0475-heaters) |
 | [0721-accounts-merge](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0853-most-profit-assigning-work](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0853-most-profit-assigning-work) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1961-maximum-ice-cream-bars](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1961-maximum-ice-cream-bars) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2379-maximum-total-importance-of-roads) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -79,6 +80,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1435-xor-queries-of-a-subarray) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -134,6 +136,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0475-heaters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0475-heaters) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0853-most-profit-assigning-work](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0853-most-profit-assigning-work) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1753-path-with-minimum-effort](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
