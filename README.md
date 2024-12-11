@@ -62,6 +62,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2179-most-beautiful-item-for-each-query](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2379-maximum-total-importance-of-roads) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
@@ -104,6 +105,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2699-count-the-number-of-fair-pairs](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
@@ -160,6 +162,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2716-prime-subtraction-operation) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -390,4 +393,8 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Sliding Window
+|  |
+| ------- |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 <!---LeetCode Topics End-->
