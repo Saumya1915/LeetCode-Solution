@@ -146,6 +146,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1731-even-odd-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Design
 |  |
@@ -189,6 +190,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1731-even-odd-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Data Stream
 |  |
 | ------- |
@@ -254,6 +256,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1731-even-odd-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1731-even-odd-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [3561-remove-methods-from-project](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3561-remove-methods-from-project) |
 ## Graph
