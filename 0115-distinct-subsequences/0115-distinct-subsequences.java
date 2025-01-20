@@ -22,11 +22,30 @@ class Solution {
     }
     public int numDistinct(String s, String t) {
 
-        int dp[][]=new int[s.length()][t.length()];
+        int dp[][]=new int[s.length()+1][t.length()+1];
         for(int row[]:dp){
-            Arrays.fill(row,-1);
+            Arrays.fill(row,0);
         }
-        return solve(s.length()-1,t.length()-1,s,t,dp);
+        //return solve(s.length()-1,t.length()-1,s,t,dp);
+        for(int i=0;i<=s.length();i++){
+            dp[i][0]=1;
+        }
+        for(int i=1;i<=s.length();i++){
+
+            for(int j=1;j<=t.length();j++){
+
+                int count=0;
+                if(s.charAt(i-1)==t.charAt(j-1)){
+                    count+=dp[i-1][j-1];
+                }
+                count+=dp[i-1][j];
+                dp[i][j]=count;
+
+
+            }
+        }
+        return dp[s.length()][t.length()];
+
         
     }
 }
