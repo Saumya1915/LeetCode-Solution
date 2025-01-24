@@ -73,6 +73,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1396-count-servers-that-communicate) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -98,6 +99,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0921-spiral-matrix-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1397-search-suggestions-system) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1435-xor-queries-of-a-subarray) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -129,6 +131,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0854-making-a-large-island](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0854-making-a-large-island) |
 | [0921-spiral-matrix-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0921-spiral-matrix-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1396-count-servers-that-communicate) |
 | [1753-path-with-minimum-effort](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2411-spiral-matrix-iv) |
@@ -241,6 +244,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
+| [1396-count-servers-that-communicate](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -263,6 +267,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1171-shortest-path-in-binary-matrix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
+| [1396-count-servers-that-communicate](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -314,6 +319,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0854-making-a-large-island](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1396-count-servers-that-communicate](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
