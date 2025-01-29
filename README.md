@@ -234,6 +234,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0606-construct-string-from-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0606-construct-string-from-binary-tree) |
+| [0684-redundant-connection](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -257,6 +258,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0513-find-bottom-left-tree-value) |
+| [0684-redundant-connection](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -281,6 +283,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0922-possible-bipartition) |
@@ -315,6 +318,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0922-possible-bipartition) |
