@@ -40,6 +40,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2292-counting-words-with-a-given-prefix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3447-clear-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
@@ -151,6 +152,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2132-convert-1d-array-into-2d-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2411-spiral-matrix-iv) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -383,6 +385,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3447-clear-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3447-clear-digits) |
 ## Memoization
 |  |
 | ------- |
