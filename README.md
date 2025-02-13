@@ -130,6 +130,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Matrix
@@ -154,6 +155,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2411-spiral-matrix-iv) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3447-clear-digits) |
 ## Tree
@@ -202,6 +204,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1753-path-with-minimum-effort](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2379-maximum-total-importance-of-roads) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Binary Tree
 |  |
 | ------- |
