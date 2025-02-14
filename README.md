@@ -109,6 +109,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1396-count-servers-that-communicate](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1397-search-suggestions-system) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1706-min-cost-to-connect-all-points) |
@@ -178,6 +179,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -223,6 +225,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -330,6 +333,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0070-climbing-stairs](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Union Find
@@ -381,6 +385,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 ## Trie
 |  |
 | ------- |
