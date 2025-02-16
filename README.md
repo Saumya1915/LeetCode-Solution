@@ -115,6 +115,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1706-min-cost-to-connect-all-points](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1961-maximum-ice-cream-bars](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1961-maximum-ice-cream-bars) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -232,6 +233,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0040-combination-sum-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0494-target-sum) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
 |  |
