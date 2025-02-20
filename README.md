@@ -17,6 +17,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1364-tuple-with-same-product) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2107-find-unique-binary-string](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -40,6 +41,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1786-count-the-number-of-consistent-strings](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2107-find-unique-binary-string](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -120,6 +122,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1786-count-the-number-of-consistent-strings](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1961-maximum-ice-cream-bars](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1961-maximum-ice-cream-bars) |
+| [2107-find-unique-binary-string](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -238,6 +241,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0494-target-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
 |  |
