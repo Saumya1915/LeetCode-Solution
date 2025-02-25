@@ -1,17 +1,19 @@
 class Solution 
 {
+    public int solve(int nums[],int index,int maxi,int mini){
+
+        if(index==-1){
+            return mini;
+        }
+        maxi=Math.max(maxi+nums[index],nums[index]);
+        mini=Math.max(mini,maxi);
+        return solve(nums,index-1,maxi,mini);
+    }
+    
     public int maxSubArray(int[] nums) 
     {
-        int maxi=nums[0];
-        int mini=nums[0];
-         for(int i=1;i<nums.length;i++)
-         {
-            maxi=Math.max(maxi+nums[i],nums[i]);
-            mini=Math.max(maxi,mini);
-
-         }
-         return mini; 
-        
+       
+        return solve(nums,nums.length-2,nums[nums.length-1],nums[nums.length-1]);
 
     }
 }
