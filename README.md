@@ -94,6 +94,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0134-gas-station](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0134-gas-station) |
@@ -251,6 +252,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0070-climbing-stairs) |
@@ -423,6 +425,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Two Pointers
