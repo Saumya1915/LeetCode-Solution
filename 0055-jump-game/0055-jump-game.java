@@ -21,8 +21,28 @@ class Solution {
        if(nums.length==1){
         return true;
        }
-        Arrays.fill(dp,-1);
-       solve(nums,0,dp);
-       return dp[0]==1;
+
+        Arrays.fill(dp,0);
+        dp[nums.length-1]=1;
+        int value=1;
+        for(int i=nums.length-2;i>=0;i--){
+            
+            if(nums[i]!=0){
+               if(nums[i]>=value){
+                    dp[i]=1;
+                    value=1;
+               }
+               else{
+                value++;
+               }
+            }
+            else{
+                value++;
+            }
+        }
+        return dp[0]==1;
+
+       //solve(nums,0,dp);
+       //return dp[0]==1;
     }
 }
