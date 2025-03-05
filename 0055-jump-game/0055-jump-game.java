@@ -8,9 +8,7 @@ class Solution {
         }
         for(int i=1;i<=nums[index];i++){
             if(solve(nums,index+i,dp)){
-                if(index+i<nums.length){
-                    dp[index]=1;
-                }
+                dp[index]=1;
                 return true;
             }
             
