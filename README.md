@@ -51,6 +51,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0316-remove-duplicate-letters) |
@@ -96,6 +97,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0051-n-queens](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0134-gas-station](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0137-single-number-ii) |
@@ -253,6 +255,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0070-climbing-stairs) |
