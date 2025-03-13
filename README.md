@@ -120,6 +120,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1364-tuple-with-same-product](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1397-search-suggestions-system) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -159,6 +160,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0921-spiral-matrix-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0921-spiral-matrix-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2411-spiral-matrix-iv) |
@@ -272,6 +274,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0264-ugly-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 | [0494-target-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0494-target-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
