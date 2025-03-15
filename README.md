@@ -123,6 +123,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
+| [1522-stone-game-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1522-stone-game-iii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1706-min-cost-to-connect-all-points) |
@@ -276,6 +277,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0803-cheapest-flights-within-k-stops](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1522-stone-game-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1522-stone-game-iii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Depth-First Search
@@ -366,6 +368,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0264-ugly-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
+| [1522-stone-game-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1522-stone-game-iii) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -496,4 +499,8 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0062-unique-paths) |
+## Game Theory
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
