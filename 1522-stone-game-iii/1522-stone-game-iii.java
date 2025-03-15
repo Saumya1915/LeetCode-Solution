@@ -28,23 +28,28 @@ class Solution {
     public String stoneGameIII(int[] stoneValue) {
         int dp[]=new int[stoneValue.length+1];
         Arrays.fill(dp,0);
+        int prev1=0;
+        int prev2=0;
+        int prev3=0;
         for(int i=stoneValue.length-1;i>=0;i--){
 
             int maxi=Integer.MIN_VALUE;
             int sum=0;
             sum+=stoneValue[i];
-            maxi=Math.max(maxi,sum-dp[i+1]);
+            maxi=Math.max(maxi,sum-prev1);
             if(i+1<stoneValue.length){
                 sum+=stoneValue[i+1];
-                maxi=Math.max(maxi,sum-dp[i+2]);
+                maxi=Math.max(maxi,sum-prev2);
             }
             if(i+2<stoneValue.length){
                 sum+=stoneValue[i+2];
-                maxi=Math.max(maxi,sum-dp[i+3]);
+                maxi=Math.max(maxi,sum-prev3);
             }
-            dp[i]=maxi;
+            prev3=prev2;
+            prev2=prev1;
+            prev1=maxi;
         }
-        int value=dp[0];
+        int value=prev1;
         if(value>0){
             return "Alice";
         }
