@@ -26,10 +26,25 @@ class Solution {
 
     }
     public String stoneGameIII(int[] stoneValue) {
-        int dp[]=new int[stoneValue.length];
-        Arrays.fill(dp,-1);
+        int dp[]=new int[stoneValue.length+1];
+        Arrays.fill(dp,0);
+        for(int i=stoneValue.length-1;i>=0;i--){
 
-        int value=solve(stoneValue,0,dp);
+            int maxi=Integer.MIN_VALUE;
+            int sum=0;
+            sum+=stoneValue[i];
+            maxi=Math.max(maxi,sum-dp[i+1]);
+            if(i+1<stoneValue.length){
+                sum+=stoneValue[i+1];
+                maxi=Math.max(maxi,sum-dp[i+2]);
+            }
+            if(i+2<stoneValue.length){
+                sum+=stoneValue[i+2];
+                maxi=Math.max(maxi,sum-dp[i+3]);
+            }
+            dp[i]=maxi;
+        }
+        int value=dp[0];
         if(value>0){
             return "Alice";
         }
