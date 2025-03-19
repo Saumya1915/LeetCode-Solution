@@ -152,6 +152,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Matrix
 |  |
@@ -413,6 +414,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3291-find-if-array-can-be-sorted) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Topological Sort
 |  |
@@ -426,6 +428,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Trie
 |  |
 | ------- |
@@ -495,6 +498,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String Matching
 |  |
 | ------- |
@@ -507,4 +511,8 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [1522-stone-game-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1522-stone-game-iii) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
