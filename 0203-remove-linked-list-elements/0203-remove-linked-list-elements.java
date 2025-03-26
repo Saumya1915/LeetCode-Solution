@@ -18,16 +18,22 @@ class Solution {
         while(curr!=null){
             if(curr.val==val && prev==null){
                 curr=curr.next;
+
                 head=curr;
             }
             else if(curr.val==val && prev!=null){
+
                 prev.next=curr.next;
                 curr=curr.next;
+
             }
             else{
+
                 prev=curr;
                 curr=curr.next;
+
             }
+
         }
         return head;
         
