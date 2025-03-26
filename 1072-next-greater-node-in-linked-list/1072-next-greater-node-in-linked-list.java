@@ -10,36 +10,35 @@
  */
 class Solution {
     public int[] nextLargerNodes(ListNode head) {
-        if(head==null || head.next==null){
+        int n=0;
+        if(head==null){
             return new int[1];
         }
-        int size=0;
+        ArrayList<Integer>list=new ArrayList<>();
         ListNode curr=head;
         while(curr!=null){
-            size++;
+
+            n++;
+            list.add(curr.val);
             curr=curr.next;
         }
-        int array[]=new int[size];
-        curr=head;
-        int a=0;
-        while(curr!=null){
-            array[a++]=curr.val;
-            curr=curr.next;
-        }
-        Stack<Integer> stack=new Stack<>();
-        for(int i=size-1;i>=0;i--){
-            while(!stack.isEmpty() && array[i]>=stack.peek()){
+        int array[]=new int[n];
+        Stack<Integer>stack=new Stack<>();
+        for(int i=list.size()-1;i>=0;i--)
+        {
+            while(!stack.isEmpty() && stack.peek()<=list.get(i)){
                 stack.pop();
             }
             if(stack.isEmpty()){
-                stack.push(array[i]);
                 array[i]=0;
+                stack.push(list.get(i));
             }
             else{
-                int value=stack.peek();
-                stack.push(array[i]);
-                array[i]=value;
+                array[i]=stack.peek();
+                stack.push(list.get(i));
+                
             }
+            
         }
         return array;
 
