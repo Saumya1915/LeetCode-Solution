@@ -118,6 +118,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0890-lemonade-change](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1072-next-greater-node-in-linked-list) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1364-tuple-with-same-product](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1396-count-servers-that-communicate) |
@@ -403,6 +404,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1072-next-greater-node-in-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
@@ -446,6 +448,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0032-longest-valid-parentheses](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3447-clear-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3447-clear-digits) |
@@ -479,6 +482,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0316-remove-duplicate-letters) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
