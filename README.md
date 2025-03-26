@@ -402,6 +402,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [2411-spiral-matrix-iv](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
@@ -482,6 +483,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Binary Indexed Tree
 |  |
