@@ -112,6 +112,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0198-house-robber](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0213-house-robber-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0416-partition-equal-subset-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0475-heaters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0494-target-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0624-maximum-distance-in-arrays) |
@@ -286,6 +287,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0264-ugly-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0343-integer-break) |
+| [0416-partition-equal-subset-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0494-target-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
