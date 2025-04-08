@@ -31,33 +31,36 @@ class Solution {
         if(target%2!=0){
             return false;
         }
-        boolean dp[][]=new boolean[nums.length][target+1];
+        //boolean dp[][]=new boolean[nums.length][target+1];
         //for(int[] row:dp){
             //Arrays.fill(row,0);
         //}
         target=target/2;
         //return solve(target/2,nums,nums.length-1,dp);
-        dp[0][nums[0]]=true;
-        for(int i=0;i<nums.length;i++){
-            dp[i][0]=true;
-        }
-        for(int i=1;i<nums.length;i++){
+        
+        boolean prev[]=new boolean[target+1];
+        if(nums[0]<=target)
+         prev[nums[0]]=true;
 
+        for(int i=1;i<nums.length;i++){
+            boolean current[]=new boolean[target+1];
+            current[0]=true;
             for(int j=1;j<=target;j++){
 
-                boolean notake=dp[i-1][j];
+                boolean notake=prev[j];
 
                  //take
                 boolean take=false;
                 if(nums[i]<=j)
-                take=dp[i-1][j-nums[i]];
+                take=prev[j-nums[i]];
 
-                dp[i][j]=(take||notake);
+                current[j]=(take||notake);
 
 
             }
+            prev=current;
         }
-        return dp[nums.length-1][target]==true;
+        return prev[target]==true;
 
         
 
