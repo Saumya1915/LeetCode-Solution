@@ -133,6 +133,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1522-stone-game-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1522-stone-game-iii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1583-paint-house-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1583-paint-house-iii) |
+| [1656-count-good-triplets](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
@@ -484,6 +485,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1656-count-good-triplets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Counting Sort
