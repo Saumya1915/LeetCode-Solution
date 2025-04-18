@@ -32,6 +32,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0038-count-and-say) |
 | [0091-decode-ways](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0179-largest-number) |
