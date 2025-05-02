@@ -296,6 +296,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0403-frog-jump](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0494-target-sum) |
+| [0576-out-of-boundary-paths](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0576-out-of-boundary-paths) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
