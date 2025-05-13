@@ -30,6 +30,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2379-maximum-total-importance-of-roads](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2379-maximum-total-importance-of-roads) |
 | [2716-prime-subtraction-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2716-prime-subtraction-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -172,6 +174,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -481,6 +484,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3447-clear-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3447-clear-digits) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Memoization
 |  |
 | ------- |
@@ -516,6 +520,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0316-remove-duplicate-letters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Recursion
 |  |
 | ------- |
