@@ -443,6 +443,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0203-remove-linked-list-elements](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1072-next-greater-node-in-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2411-spiral-matrix-iv) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
@@ -488,6 +489,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1072-next-greater-node-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2573-remove-nodes-from-linked-list) |
 | [3447-clear-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3447-clear-digits) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Memoization
@@ -525,12 +527,14 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0316-remove-duplicate-letters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2573-remove-nodes-from-linked-list) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2573-remove-nodes-from-linked-list) |
 ## Binary Indexed Tree
 |  |
 | ------- |
