@@ -45,6 +45,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0606-construct-string-from-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0606-construct-string-from-binary-tree) |
 | [0721-accounts-merge](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1160-letter-tile-possibilities](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1160-letter-tile-possibilities) |
 | [1397-search-suggestions-system](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1397-search-suggestions-system) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -429,6 +430,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0854-making-a-large-island](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1706-min-cost-to-connect-all-points) |
