@@ -171,6 +171,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2716-prime-subtraction-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2716-prime-subtraction-operation) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2808-painting-the-walls](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2808-painting-the-walls) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -324,6 +325,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1583-paint-house-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1583-paint-house-iii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2808-painting-the-walls](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2808-painting-the-walls) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Depth-First Search
 |  |
