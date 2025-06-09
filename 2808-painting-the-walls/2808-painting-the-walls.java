@@ -29,7 +29,7 @@ class Solution {
     public int paintWalls(int[] cost, int[] time) {
         int dp[][]=new int[cost.length][cost.length+1];
         for(int row[]:dp){
-            Arrays.fill(row,Integer.MAX_VALUE/2);
+            Arrays.fill(row, (int) 1e9);
         }
         //return solve(cost.length,cost.length-1,cost,time,dp);
         for(int i=1;i<=cost.length;i++){
