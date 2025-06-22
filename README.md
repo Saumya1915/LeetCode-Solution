@@ -50,6 +50,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1160-letter-tile-possibilities](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1397-search-suggestions-system) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -325,6 +326,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0803-cheapest-flights-within-k-stops](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1522-stone-game-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1522-stone-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1559-cherry-pickup-ii) |
