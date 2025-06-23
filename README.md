@@ -129,6 +129,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0179-largest-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0403-frog-jump](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0416-partition-equal-subset-sum) |
@@ -246,6 +247,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Binary Search Tree
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0475-heaters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0475-heaters) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -318,6 +320,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0213-house-robber-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0343-integer-break) |
 | [0403-frog-jump](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0416-partition-equal-subset-sum) |
