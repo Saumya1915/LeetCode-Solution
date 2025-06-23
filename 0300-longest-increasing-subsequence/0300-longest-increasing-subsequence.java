@@ -25,16 +25,7 @@ class Solution {
             return 1;
         }
         Arrays.sort(ans);
-        boolean flag=true;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]!=ans[i]){
-                flag=false;
-                break;
-            }
-        }
-        // if(flag){
-        //     return ans.length;
-        // }
+        
         int dp[][]=new int[nums.length][nums.length];
         for(int row[]:dp){
             Arrays.fill(row,-1);
