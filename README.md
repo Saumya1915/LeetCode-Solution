@@ -39,6 +39,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0005-longest-palindromic-substring](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0179-largest-number) |
@@ -315,6 +316,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0063-unique-paths-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
