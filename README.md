@@ -22,6 +22,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2107-find-unique-binary-string](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
+| [2444-longest-ideal-subsequence](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2444-longest-ideal-subsequence) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -61,6 +62,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2444-longest-ideal-subsequence](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2444-longest-ideal-subsequence) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3447-clear-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3447-clear-digits) |
@@ -346,6 +348,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1583-paint-house-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1583-paint-house-iii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2444-longest-ideal-subsequence](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2444-longest-ideal-subsequence) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2808-painting-the-walls](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2808-painting-the-walls) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
