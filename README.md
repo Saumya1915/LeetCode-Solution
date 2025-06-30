@@ -190,6 +190,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -355,6 +356,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2444-longest-ideal-subsequence](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2444-longest-ideal-subsequence) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2808-painting-the-walls](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2808-painting-the-walls) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Depth-First Search
 |  |
