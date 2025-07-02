@@ -451,6 +451,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1522-stone-game-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1522-stone-game-iii) |
+| [2481-strictly-palindromic-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2481-strictly-palindromic-number) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -550,6 +551,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0475-heaters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0475-heaters) |
 | [0853-most-profit-assigning-work](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0853-most-profit-assigning-work) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2481-strictly-palindromic-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2481-strictly-palindromic-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Enumeration
 |  |
@@ -616,4 +618,8 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
