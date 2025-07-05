@@ -177,6 +177,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1753-path-with-minimum-effort](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1961-maximum-ice-cream-bars](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1961-maximum-ice-cream-bars) |
 | [2048-build-array-from-permutation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
@@ -459,6 +460,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1522-stone-game-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1522-stone-game-iii) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2481-strictly-palindromic-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2481-strictly-palindromic-number) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2716-prime-subtraction-operation) |
@@ -634,4 +636,8 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0535-encode-and-decode-tinyurl) |
+## Geometry
+|  |
+| ------- |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->
