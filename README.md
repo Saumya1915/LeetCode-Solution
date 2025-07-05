@@ -105,6 +105,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2179-most-beautiful-item-for-each-query](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2379-maximum-total-importance-of-roads) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -190,6 +191,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2445-reachable-nodes-with-restrictions](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2716-prime-subtraction-operation) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -223,6 +225,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1753-path-with-minimum-effort](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2411-spiral-matrix-iv) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
