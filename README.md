@@ -81,6 +81,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0134-gas-station](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0316-remove-duplicate-letters) |
+| [0410-split-array-largest-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0853-most-profit-assigning-work](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0890-lemonade-change) |
@@ -146,6 +147,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0300-longest-increasing-subsequence](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0403-frog-jump](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0475-heaters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0494-target-sum) |
@@ -274,6 +276,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0410-split-array-largest-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0475-heaters) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -352,6 +355,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0300-longest-increasing-subsequence](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0343-integer-break) |
 | [0403-frog-jump](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0516-longest-palindromic-subsequence) |
@@ -532,6 +536,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
