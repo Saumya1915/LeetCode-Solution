@@ -1,48 +1,45 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-       List<Integer> list=new ArrayList<>();
 
-       int row=matrix.length;
-       int col=matrix[0].length;
+        ArrayList<Integer>list=new ArrayList<>();
+        int n=matrix.length;
+        int m=matrix[0].length;
 
-       int count=0;
-       int total=row*col;
+        int startRow=0;
+        int endRow=n-1;
+        int startCol=0;
+        int endCol=m-1;
 
-       int startingRow=0;
-       int startingCol=0;
-       int endingRow=row-1;
-       int endingCol=col-1;
+        int total=m*n;
 
-       while(count<total){
-         for(int i=startingCol;count<total && i<=endingCol;i++){
+        int count=0;
 
-           list.add(matrix[startingRow][i]);
-           count++;
+        while(count<total){
 
-       }
-       startingRow++;
+            for(int i=startCol;count<total && i<=endCol;i++){
+                list.add(matrix[startRow][i]);
+                count++;
+            }
+            startRow++;
 
-       for(int i=startingRow;count<total && i<=endingRow;i++){
-           list.add(matrix[i][endingCol]);
-           count++;
-       }
-       endingCol--;
-       
-       for(int i=endingCol;count<total &&  i>=startingCol;i--){
-           list.add(matrix[endingRow][i]);
-           count++;
-       }
-       endingRow--;
+            for(int i=startRow; count<total && i<=endRow;i++){
+                list.add(matrix[i][endCol]);
+                count++;
+            }
+            endCol--;
 
-       for(int i=endingRow;count<total && i>=startingRow;i--){
-           list.add(matrix[i][startingCol]);
-           count++;
-       }
-       startingCol++;
-       
-       }
-       return list;
+            for(int i=endCol;count<total && i>=startCol;i--){
+                list.add(matrix[endRow][i]);
+                count++;
+            }
+            endRow--;
 
-
+            for(int i=endRow; count<total && i>=startRow;i--){
+                list.add(matrix[i][startCol]);
+                count++;
+            }
+            startCol++;
+        }
+        return list;
     }
 }
