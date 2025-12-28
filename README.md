@@ -133,6 +133,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0001-two-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0054-spiral-matrix) |
@@ -341,6 +342,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0062-unique-paths) |
@@ -552,6 +554,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1072-next-greater-node-in-linked-list) |
@@ -576,6 +579,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
@@ -597,6 +601,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
