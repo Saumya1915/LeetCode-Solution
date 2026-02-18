@@ -160,6 +160,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0721-accounts-merge](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0741-cherry-pickup](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0741-cherry-pickup) |
+| [0775-global-and-local-inversions](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0775-global-and-local-inversions) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-most-profit-assigning-work](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0853-most-profit-assigning-work) |
 | [0854-making-a-large-island](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0854-making-a-large-island) |
@@ -477,6 +478,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0264-ugly-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0343-integer-break) |
+| [0775-global-and-local-inversions](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0775-global-and-local-inversions) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
