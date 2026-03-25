@@ -221,6 +221,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Matrix
@@ -243,6 +244,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2411-spiral-matrix-iv](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2411-spiral-matrix-iv) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
 ## Simulation
 |  |
 | ------- |
@@ -554,6 +556,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1435-xor-queries-of-a-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
 ## Trie
 |  |
 | ------- |
@@ -603,6 +606,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | ------- |
 | [1656-count-good-triplets](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1656-count-good-triplets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Counting Sort
 |  |
