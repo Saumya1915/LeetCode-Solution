@@ -150,6 +150,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0213-house-robber-ii) |
@@ -365,6 +366,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0091-decode-ways](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
