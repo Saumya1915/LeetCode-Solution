@@ -10,6 +10,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0001-two-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0229-majority-element-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -100,6 +101,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0056-merge-intervals](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0475-heaters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0475-heaters) |
 | [0721-accounts-merge](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0853-most-profit-assigning-work](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0853-most-profit-assigning-work) |
@@ -121,6 +123,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [1160-letter-tile-possibilities](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1160-letter-tile-possibilities) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1364-tuple-with-same-product) |
@@ -154,6 +157,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0179-largest-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0315-count-of-smaller-numbers-after-self) |
