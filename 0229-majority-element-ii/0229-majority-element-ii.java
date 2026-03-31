@@ -1,32 +1,51 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        int count=0;
-        int length=nums.length/3;
-        List<Integer> list=new ArrayList<>();
-        Arrays.sort(nums);
-        int num=nums[0];
-        for(int i=0;i<nums.length;i++)
-        {
+        List<Integer>list=new ArrayList<>();
+        int ele1=0;
+        int count1=0;
+        int ele2=0;
+        int count2=0;
+        for(int i=0;i<nums.length;i++){
 
-            if(num==nums[i]){
-                count++;
-                //System.out.println(count+"==="+num);
+            if(count1==0 && ele2!=nums[i]){
+                ele1=nums[i];
+                count1=1;
+            }
+
+            else if(count2==0 && ele1!=nums[i]){
+                ele2=nums[i];
+                count2=1;
+            }
+            else if(ele1==nums[i]){
+                count1++;
+            }
+
+            else if(ele2==nums[i]){
+                count2++;
             }
             else{
-                if(count>length){
-                    list.add(num);
-                }
-                num=nums[i];
-                count=1;
+                count1--;
+                count2--;
+            }
+            
+        }
+        count1=0;
+        count2=0;
+        for(int i=0;i<nums.length;i++){
+
+            if(nums[i]==ele1){
+                count1++;
+            }
+            else if(nums[i]==ele2){
+                count2++;
             }
         }
-
-        if(count>length){
-                    list.add(num);
+        if(count1>nums.length/3){
+            list.add(ele1);
         }
-
-       return list;
-
-
+        if(count2>nums.length/3){
+            list.add(ele2);
+        }
+        return list;
     }
 }
