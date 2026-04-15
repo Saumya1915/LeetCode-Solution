@@ -46,6 +46,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0072-edit-distance) |
@@ -354,6 +355,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0494-target-sum) |
@@ -366,6 +368,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0053-maximum-subarray) |
