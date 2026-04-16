@@ -52,6 +52,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0072-edit-distance](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [0516-longest-palindromic-subsequence](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0516-longest-palindromic-subsequence) |
@@ -362,6 +363,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0040-combination-sum-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0051-n-queens) |
+| [0131-palindrome-partitioning](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -385,6 +387,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0091-decode-ways](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0213-house-robber-ii) |
