@@ -363,6 +363,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0040-combination-sum-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0052-n-queens-ii) |
 | [0131-palindrome-partitioning](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1160-letter-tile-possibilities) |
