@@ -1,77 +1,86 @@
 class Solution {
-    public boolean isSafe(int index,int[][] matrix,int n){
+    public boolean isSafe(int i,int j,int[][] chessboard,int n){
+
+        //above
+        int tempi=i;
+        int tempj=j;
+        while(tempi>=0)
+        {
+            if(chessboard[tempi][tempj]==1){
+                return false;
+            }
+            tempi--;
+        }
+
+       
+
+        //left diagonal
+        tempi=i;
+        tempj=j;
+        while(tempi>=0 && tempj>=0){
+            if(chessboard[tempi][tempj]==1){
+                return false;
+            }
+            tempi--;
+            tempj--;
+        }
+
         
-        int x=n;
-        int y=index;
 
-        while(x>=0){
-            if(matrix[x][y]==1){
+
+        //right diagonal
+        tempi=i;
+        tempj=j;
+        while(tempi>=0 && tempj<n){
+
+            if(chessboard[tempi][tempj]==1){
                 return false;
             }
-            x--;
-        }
+            tempi--;
+            tempj++;
 
-        x=n;
-        y=index;
-
-        while(x>=0 &&  y>=0){
-            if(matrix[x][y]==1){
-                return false;
-            }
-            x--;
-            y--;
-        }
-
-        x=n;
-        y=index;
-
-        while(x>=0 &&  y<matrix.length){
-            if(matrix[x][y]==1){
-                return false;
-            }
-            x--;
-            y++;
         }
 
         return true;
     }
-    public void solve(int[][] matrix,int n,List<List<String>>ans,int i){
-       if(i==n)
-       {
-        
-        List<String> list=new ArrayList<>();
-        for(int j=0;j<n;j++){
-            StringBuilder str=new StringBuilder();
-            for(int k=0;k<n;k++)
+    public void solve(List<List<String>>ans,int n, 
+    int chessboard[][],int i){
+
+        if(i==n)
+        {
+            List<String>output=new ArrayList<>();
+            for(int l=0;l<n;l++)
             {
-                if(matrix[j][k]==1){
-                    str.append("Q");
+                StringBuilder sb=new StringBuilder();
+                for(int k=0;k<n;k++)
+                {
+                    if(chessboard[l][k]==0){
+                        sb.append(".");
+                    }
+                    else{
+                        sb.append("Q");
+                    }
                 }
-                else{
-                    str.append(".");
-                }
+                output.add(sb.toString());
             }
-            list.add(str.toString());
+            ans.add(output);
+            return;
         }
-        ans.add(list);
-        return;
-       }
 
-       for(int index=0;index<n;index++){
-            if(isSafe(index,matrix,i))
-            {
-                matrix[i][index]=1;
-                solve(matrix,n,ans,i+1);
-                matrix[i][index]=0;
+        for(int k=0;k<n;k++){
+            if(isSafe(i,k,chessboard,n)){
+                chessboard[i][k]=1;
+                solve(ans,n,chessboard,i+1);
+                chessboard[i][k]=0;
             }
+        }
 
-       }
     }
     public List<List<String>> solveNQueens(int n) {
-        List<List<String>> ans=new ArrayList<>();
-        int matrix[][]=new int[n][n];
-        solve(matrix,n,ans,0);
+        List<List<String>>ans=new ArrayList<>();
+        int chessboard[][]=new int[n][n];
+        solve(ans,n,chessboard,0);
         return ans;
-
+        
     }
-} 
+}
