@@ -9,6 +9,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | ------- |
 | [0001-two-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0229-majority-element-ii) |
@@ -145,6 +146,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | ------- |
 | [0001-two-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
@@ -247,6 +249,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
@@ -359,6 +362,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0046-permutations) |
