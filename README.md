@@ -553,6 +553,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0142-linked-list-cycle-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1072-next-greater-node-in-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2411-spiral-matrix-iv) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2573-remove-nodes-from-linked-list) |
@@ -636,6 +637,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0287-find-the-duplicate-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0475-heaters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0475-heaters) |
 | [0853-most-profit-assigning-work](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0853-most-profit-assigning-work) |
+| [0876-middle-of-the-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2481-strictly-palindromic-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2481-strictly-palindromic-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2699-count-the-number-of-fair-pairs) |
