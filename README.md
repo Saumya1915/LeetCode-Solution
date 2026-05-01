@@ -549,6 +549,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -666,6 +667,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
