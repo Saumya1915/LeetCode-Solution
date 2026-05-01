@@ -512,6 +512,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
@@ -549,6 +550,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -667,6 +669,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
