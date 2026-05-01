@@ -9,34 +9,48 @@
  * }
  */
 class Solution {
-    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode dummy=new ListNode(-1);
-        ListNode tail=dummy;
-        ListNode curr1=list1;
-        ListNode curr2=list2;
-        while(curr1!=null && curr2!=null)
-        {
-            if(curr1.val>curr2.val){
-                ListNode temp=new ListNode(curr2.val);
-                tail.next=temp;
-                tail=temp;
-                curr2=curr2.next;
-            }
+    public ListNode solve(ListNode first, ListNode second){
+        if(first.next==null){
+            first.next=second;
+            return first;
+        }
+        ListNode head=first;
+        ListNode firstKeBaad=first.next;
+        while(second!=null && firstKeBaad!=null){
+            if(second.val>=first.val && second.val<firstKeBaad.val){
 
+                ListNode temp=second.next;
+                first.next=second;
+                second.next=firstKeBaad;
+
+                first=second;
+                second=temp;
+
+
+            }
             else{
-                ListNode temp=new ListNode(curr1.val);
-                tail.next=temp;
-                tail=temp;
-                curr1=curr1.next;
+                first=first.next;
+                firstKeBaad=first.next;
+                if(firstKeBaad==null){
+                    first.next=second;}
+            
             }
         }
-        if(curr1!=null){
-            tail.next=curr1;
+        return head;
+    }
+    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+        if(list1==null){
+            return list2;
         }
-        if(curr2!=null){
-            tail.next=curr2;
+        if(list2==null){
+            return list1;
         }
-        return dummy.next;
-
+        
+        if(list1.val>list2.val){
+            return solve(list2,list1);
+        }
+        else{
+            return solve(list1,list2);
+        }
     }
 }
