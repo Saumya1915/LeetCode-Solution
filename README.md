@@ -11,6 +11,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
@@ -555,6 +556,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0025-reverse-nodes-in-k-group](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
