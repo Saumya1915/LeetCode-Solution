@@ -48,6 +48,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0038-count-and-say) |
@@ -611,6 +612,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0316-remove-duplicate-letters) |
