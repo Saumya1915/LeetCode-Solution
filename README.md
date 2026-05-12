@@ -162,6 +162,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0064-minimum-path-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0134-gas-station) |
@@ -257,6 +258,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0063-unique-paths-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0741-cherry-pickup](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0741-cherry-pickup) |
 | [0854-making-a-large-island](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0854-making-a-large-island) |
 | [0921-spiral-matrix-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0921-spiral-matrix-iii) |
@@ -392,6 +394,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0064-minimum-path-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -617,6 +620,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0032-longest-valid-parentheses](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1072-next-greater-node-in-linked-list) |
@@ -670,6 +674,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
