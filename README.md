@@ -34,6 +34,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2445-reachable-nodes-with-restrictions](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2653-sliding-subarray-beauty](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2653-sliding-subarray-beauty) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -233,6 +234,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2653-sliding-subarray-beauty](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2653-sliding-subarray-beauty) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2716-prime-subtraction-operation) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -713,6 +715,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2653-sliding-subarray-beauty](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2653-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
