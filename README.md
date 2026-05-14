@@ -15,6 +15,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0142-linked-list-cycle-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
+| [0496-next-greater-element-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -181,6 +182,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0416-partition-equal-subset-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0475-heaters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0624-maximum-distance-in-arrays) |
@@ -624,6 +626,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0084-largest-rectangle-in-histogram](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -678,6 +681,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0084-largest-rectangle-in-histogram](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2573-remove-nodes-from-linked-list) |
