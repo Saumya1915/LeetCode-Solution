@@ -293,6 +293,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
@@ -354,6 +355,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
@@ -450,6 +452,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0606-construct-string-from-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0606-construct-string-from-binary-tree) |
@@ -477,6 +480,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0279-perfect-squares](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0279-perfect-squares) |
