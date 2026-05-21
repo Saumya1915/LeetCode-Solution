@@ -18,18 +18,30 @@ class Solution {
         if(root==null){
             return 0;
         }
-        return Math.max(height(root.left),height(root.right))+1;
+        int a=height(root.left);
+        if(a==-1){
+            return -1;
+        }
+
+        int b=height(root.right);
+        if(b==-1){
+            return -1;
+        }
+
+        if(Math.abs(a-b)>1){
+            return -1;
+        }
+        return Math.max(a,b)+1;
+
+
     }
     public boolean isBalanced(TreeNode root) {
-        if(root==null)
+        if(root==null){
             return true;
-        boolean left=isBalanced(root.left);
-        boolean right=isBalanced(root.right);
-        boolean c=false;
-        if(Math.abs(height(root.left)-height(root.right))<=1){
-            c=true;
         }
-        return left && right && c;
+        int a=height(root);
+        return a==-1?false:true;
+
 
         
     }
