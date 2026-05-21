@@ -297,6 +297,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0102-binary-tree-level-order-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0606-construct-string-from-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0606-construct-string-from-binary-tree) |
@@ -359,6 +360,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0102-binary-tree-level-order-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0606-construct-string-from-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0606-construct-string-from-binary-tree) |
@@ -454,6 +456,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | ------- |
 | [0100-same-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0112-path-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0606-construct-string-from-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0606-construct-string-from-binary-tree) |
 | [0684-redundant-connection](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0684-redundant-connection) |
@@ -483,6 +486,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0100-same-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0279-perfect-squares) |
 | [0513-find-bottom-left-tree-value](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0684-redundant-connection](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0684-redundant-connection) |
