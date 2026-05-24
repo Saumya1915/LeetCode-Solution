@@ -24,6 +24,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1364-tuple-with-same-product) |
@@ -116,6 +117,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0475-heaters](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0475-heaters) |
 | [0721-accounts-merge](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0721-accounts-merge) |
 | [0853-most-profit-assigning-work](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0853-most-profit-assigning-work) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1253-sort-the-matrix-diagonally) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1397-search-suggestions-system](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1397-search-suggestions-system) |
@@ -306,6 +308,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -370,6 +373,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -470,6 +474,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0922-possible-bipartition](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -500,6 +505,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0922-possible-bipartition](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0922-possible-bipartition) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
