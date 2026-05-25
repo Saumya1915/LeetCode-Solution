@@ -24,36 +24,19 @@
     }
 }
 class Solution {
+    public void help(List<Integer>list,TreeNode root,int level){
+        if(root==null){
+            return;
+        }
+        if(level==list.size()){
+            list.add(root.val);
+        }
+        help(list,root.right,level+1);
+        help(list,root.left,level+1);
+    }
     public List<Integer> rightSideView(TreeNode root) {
         List<Integer>list=new ArrayList<>();
-        if(root==null){
-            return list;
-        }
-        Queue<Pair>q=new LinkedList<>();
-        TreeMap<Integer,Integer>map=new TreeMap<>();
-        q.add(new Pair(0,root));
-        while(!q.isEmpty()){
-            
-            Pair pair=q.remove();
-            
-            map.put(pair.hd,pair.node.val);
-            
-            if(pair.node.left!=null){
-                q.add(new Pair(pair.hd+1,pair.node.left));
-            }
-            
-            if(pair.node.right!=null){
-                q.add(new Pair(pair.hd+1,pair.node.right));
-            }
-            
-            
-            
-        }
-        
-        for(Integer value:map.values()){
-            
-            list.add(value);
-        }
+        help(list,root,0);
         return list;
 
         
