@@ -301,6 +301,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0513-find-bottom-left-tree-value) |
@@ -367,6 +368,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0513-find-bottom-left-tree-value) |
@@ -423,6 +425,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0091-decode-ways](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0198-house-robber) |
@@ -465,6 +468,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0100-same-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0606-construct-string-from-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0606-construct-string-from-binary-tree) |
