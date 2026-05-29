@@ -314,6 +314,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1731-even-odd-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -326,6 +327,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0789-kth-largest-element-in-a-stream](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -339,6 +341,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-most-profit-assigning-work](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0853-most-profit-assigning-work) |
 | [1397-search-suggestions-system](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1397-search-suggestions-system) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1753-path-with-minimum-effort](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -450,6 +453,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1522-stone-game-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1522-stone-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1559-cherry-pickup-ii) |
 | [1583-paint-house-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1583-paint-house-iii) |
@@ -488,6 +492,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1396-count-servers-that-communicate](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1753-path-with-minimum-effort) |
@@ -521,6 +526,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1396-count-servers-that-communicate](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1558-course-schedule-iv) |
 | [1731-even-odd-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1731-even-odd-tree) |
@@ -625,6 +631,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0287-find-the-duplicate-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1435-xor-queries-of-a-subarray) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2323-minimum-bit-flips-to-convert-number) |
