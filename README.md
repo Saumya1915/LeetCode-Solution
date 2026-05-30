@@ -11,6 +11,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0229-majority-element-ii) |
@@ -168,6 +169,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0084-largest-rectangle-in-histogram](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0137-single-number-ii) |
@@ -298,6 +300,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0100-same-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0112-path-sum) |
@@ -368,6 +371,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0100-same-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0112-path-sum) |
@@ -688,6 +692,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
