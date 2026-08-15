@@ -257,6 +257,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Matrix
 |  |
@@ -657,6 +658,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Topological Sort
 |  |
 | ------- |
