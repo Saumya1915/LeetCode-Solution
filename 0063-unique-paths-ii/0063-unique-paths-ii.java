@@ -1,44 +1,38 @@
 class Solution {
-    public int solve(int x,int y,int[][] grid,int dp[][]){
+    public int solve(int[][] obstacleGrid,int x,int y,int[][] grid){
 
-        if(x==0 && y==0){
-
+        if(x==obstacleGrid.length-1 && y==obstacleGrid[0].length-1 && obstacleGrid[x][y]!=1)
+        {
             return 1;
         }
-        if(x<0 || x>=grid.length || y<0 || y>=grid[0].length || grid[x][y]==1){
 
+        if(x>=obstacleGrid.length||y>=obstacleGrid[0].length)
+        {
             return 0;
         }
 
-        if(dp[x][y]!=-1){
-            return dp[x][y];
+        if(grid[x][y]!=-1){
+            return grid[x][y];
         }
 
-        int up=solve(x-1,y,grid,dp);
-        int left=solve(x,y-1,grid,dp);
-        return dp[x][y]=up+left;
+        if(obstacleGrid[x][y]==1){
+            return 0;
+        }
 
+        
 
-
+        int left=solve(obstacleGrid,x+1,y,grid);
+        int right=solve(obstacleGrid,x,y+1,grid);
+        return grid[x][y]=left+right;
 
 
     }
-
-     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
-        if(obstacleGrid[0][0]==1){
-            return 0;
+    public int uniquePathsWithObstacles(int[][] obstacleGrid) {
+        int grid[][]=new int[obstacleGrid.length][obstacleGrid[0].length];
+        for(int i=0;i<obstacleGrid.length;i++){
+            Arrays.fill(grid[i],-1);
         }
-        if(obstacleGrid[obstacleGrid.length-1][obstacleGrid[0].length-1]==1){
-           return 0; 
-        }
-
-        int dp[][]=new int[obstacleGrid.length][obstacleGrid[0].length];
-
-        for(int row[]:dp){
-            Arrays.fill(row,-1);
-        }
-
-        return solve(obstacleGrid.length-1,obstacleGrid[0].length-1,obstacleGrid,dp);
+        return solve(obstacleGrid,0,0,grid);
         
 
     }
