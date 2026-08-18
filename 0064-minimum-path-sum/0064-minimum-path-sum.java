@@ -18,7 +18,7 @@ class Solution {
         return ans[x][y]=grid[x][y]+Math.min(left,right);
     }
     public int minPathSum(int[][] grid) {
-        int ans[][]=new int[grid.length][grid[0].length];
+        //int ans[][]=new int[grid.length][grid[0].length];
         // for(int i=0;i<grid.length;i++){
 
         //     Arrays.fill(ans[i],-1);
@@ -26,28 +26,52 @@ class Solution {
 
         // return solve(grid,grid.length-1,grid[0].length-1,ans);
 
-        ans[0][0]=grid[0][0];
+        // ans[0][0]=grid[0][0];
+        // for(int i=1;i<grid[0].length;i++){
+        //     ans[0][i]=ans[0][i-1]+grid[0][i];
+        // }
+
+        // for(int i=1;i<grid.length;i++){
+
+        //     for(int j=0;j<grid[0].length;j++){
+
+        //         if(i-1>=0 && j-1>=0){
+        //             int left=ans[i-1][j];
+        //             int right=ans[i][j-1];
+        //             ans[i][j]=grid[i][j]+Math.min(left,right);
+
+        //         }
+        //         else{
+
+        //             ans[i][j]=grid[i][j]+ans[i-1][j];
+        //         }
+        //     }
+        // }
+        // return ans[grid.length-1][grid[0].length-1];
+
+        int ans[]=new int[grid[0].length];
+        ans[0]=grid[0][0];
+
         for(int i=1;i<grid[0].length;i++){
-            ans[0][i]=ans[0][i-1]+grid[0][i];
+            ans[i]=ans[i-1]+grid[0][i];
         }
 
-        for(int i=1;i<grid.length;i++){
+        for(int i=1;i<grid.length;i++)
+        {
 
             for(int j=0;j<grid[0].length;j++){
 
-                if(i-1>=0 && j-1>=0){
-                    int left=ans[i-1][j];
-                    int right=ans[i][j-1];
-                    ans[i][j]=grid[i][j]+Math.min(left,right);
-
+                if(j-1<0){
+                    ans[j]=grid[i][j]+ans[j];
                 }
                 else{
-
-                    ans[i][j]=grid[i][j]+ans[i-1][j];
+                    ans[j]=grid[i][j]+Math.min(ans[j-1],ans[j]);
                 }
             }
         }
-        return ans[grid.length-1][grid[0].length-1];
+        return ans[grid[0].length-1];
+
+
 
         
     }
