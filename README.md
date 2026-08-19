@@ -170,6 +170,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0085-maximal-rectangle](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0120-triangle](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0137-single-number-ii) |
@@ -438,6 +439,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0085-maximal-rectangle](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
