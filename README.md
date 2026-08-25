@@ -46,6 +46,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String
 |  |
@@ -259,6 +260,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [3546-equal-sum-grid-partition-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Matrix
 |  |
