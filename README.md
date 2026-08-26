@@ -84,6 +84,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2107-find-unique-binary-string](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2444-longest-ideal-subsequence](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2444-longest-ideal-subsequence) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3447-clear-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3447-clear-digits) |
@@ -793,6 +794,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2653-sliding-subarray-beauty](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2653-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String Matching
 |  |
