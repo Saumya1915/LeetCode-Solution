@@ -47,6 +47,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [3455-minimum-length-of-string-after-operations](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String
 |  |
@@ -91,6 +92,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -109,6 +111,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2379-maximum-total-importance-of-roads](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2379-maximum-total-importance-of-roads) |
 | [2716-prime-subtraction-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2716-prime-subtraction-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
 |  |
@@ -150,6 +153,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Array
 |  |
 | ------- |
@@ -741,6 +745,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting Sort
 |  |
 | ------- |
