@@ -1,40 +1,50 @@
 class Solution {
-    public boolean solve(int[] nums, int sum, int index,int ans,int array[][]){
-        if(index>=nums.length){
-            return false;
+    public int solve(int[] nums,int target,int index,int[][] array){
+        if(index<0){
+            if(target==0){
+                return 1;
+            }
+            return 0;
         }
-        if(ans==sum){
-            return true;
+        if(target<0){
+            return 0;
         }
 
-        if(array[index][sum]!=-1){
-            return array[index][sum]==1?true:false;
+        if(target==0){
+            return 1;
         }
 
-        //include
-        boolean a=solve(nums,sum-nums[index],index+1,ans+nums[index],array);
+        if(array[index][target]!=-1){
+            return array[index][target]==1?1:0;
+        }
 
-        //don't include
-        boolean b=solve(nums,sum,index+1,ans,array);
-        array[index][sum]=a||b==true?1:0;
-        return a||b;
+        int a=solve(nums,target-nums[index],index-1, array);
+        int b=solve(nums,target,index-1, array);
+        return array[index][target]=a | b;
+
 
     }
     public boolean canPartition(int[] nums) {
-
         int sum=0;
-        
-        
-        for(int i=0;i<nums.length;i++){
+        for(int i=0;i<nums.length;i++)
+        {
             sum+=nums[i];
-        } 
-        int array[][]=new int[nums.length][sum+1];
+
+        }
+        if(sum%2!=0){
+            return false;
+        }
+        int target=sum/2;
+        int[][] array=new int[nums.length][target+1];
         for(int i=0;i<nums.length;i++){
             Arrays.fill(array[i],-1);
         }
-       if(sum%2!=0){
-          return false;
-       }
-       return solve(nums,sum,0,0,array);
+
+        return solve(nums,target,nums.length-1,array)==1? true:false;
+
+
+        
+
+
     }
 }
