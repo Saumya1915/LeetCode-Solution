@@ -20,7 +20,7 @@ class Solution {
 
         int a=solve(nums,target-nums[index],index-1, array);
         int b=solve(nums,target,index-1, array);
-        return array[index][target]=a | b;
+        return array[index][target]= a | b;
 
 
     }
@@ -35,12 +35,33 @@ class Solution {
             return false;
         }
         int target=sum/2;
-        int[][] array=new int[nums.length][target+1];
+        boolean[][] array=new boolean[nums.length][sum+1];
+        // for(int i=0;i<nums.length;i++){
+        //     Arrays.fill(array[i],-1);
+        // }
+
+        //return solve(nums,target,nums.length-1,array)==1? true:false;
+
+        array[0][nums[0]]=true;
         for(int i=0;i<nums.length;i++){
-            Arrays.fill(array[i],-1);
+            array[i][0]=true;
         }
 
-        return solve(nums,target,nums.length-1,array)==1? true:false;
+        for(int i=1;i<nums.length;i++){
+
+            for(int j=1;j<=target;j++)
+            {
+                boolean a=false;
+                if(j>=nums[i])
+                a=array[i-1][j-nums[i]];
+                boolean b=array[i-1][j];
+                array[i][j]=a||b;
+
+                
+
+            }
+        }
+        return array[nums.length-1][target];
 
 
         
