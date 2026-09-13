@@ -7,11 +7,11 @@ class Solution {
         }
         boolean array[][]=new boolean[stones.length][total+1];
         array[0][stones[0]]=true;
-        // for(int i=0;i<stones.length;i++){
-        //     array[0][i]=true;
-        // }
+        for(int i=0;i<stones.length;i++){
+            array[i][0]=true;
+        }
         for(int i=1;i<stones.length;i++){
-            for(int j=0;j<=total;j++){
+            for(int j=1;j<=total;j++){
                  
                boolean not=array[i-1][j];
                boolean take=false;
