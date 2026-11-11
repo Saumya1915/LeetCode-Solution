@@ -608,6 +608,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1477-product-of-the-last-k-numbers](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1522-stone-game-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1522-stone-game-iii) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [2413-smallest-even-multiple](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2413-smallest-even-multiple) |
 | [2481-strictly-palindromic-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2481-strictly-palindromic-number) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2716-prime-subtraction-operation) |
@@ -653,6 +654,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2413-smallest-even-multiple) |
 | [2716-prime-subtraction-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
