@@ -609,6 +609,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [1522-stone-game-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1522-stone-game-iii) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2413-smallest-even-multiple](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
 | [2481-strictly-palindromic-number](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2481-strictly-palindromic-number) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2716-prime-subtraction-operation) |
@@ -655,6 +656,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | ------- |
 | [0258-add-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
 | [2716-prime-subtraction-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
@@ -750,6 +752,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | ------- |
 | [1656-count-good-triplets](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1656-count-good-triplets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2427-number-of-common-factors](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Saumya1915/LeetCode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -851,4 +854,12 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1049-last-stone-weight-ii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
