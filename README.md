@@ -295,6 +295,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0258-add-digits) |
 | [0921-spiral-matrix-iii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0921-spiral-matrix-iii) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Saumya1915/LeetCode-Solution/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2048-build-array-from-permutation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2048-build-array-from-permutation) |
@@ -596,6 +597,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | [0002-add-two-numbers](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0343-integer-break) |
@@ -650,6 +652,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0258-add-digits) |
 | [2716-prime-subtraction-operation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Saumya1915/LeetCode-Solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
