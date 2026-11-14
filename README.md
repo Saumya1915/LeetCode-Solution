@@ -159,6 +159,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | ------- |
 | [0001-two-sum](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0037-sudoku-solver) |
@@ -350,6 +351,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/Saumya1915/LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
